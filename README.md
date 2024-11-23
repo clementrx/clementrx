@@ -11,7 +11,7 @@ Whether it's crafting interactive dashboards in R Shiny, building predictive mod
 
 ### Talking about Personal Stuff:
 - 👨‍🏫 I'm a **Senior Data Scientist**
-- 🔗 [Website](clementrieux.com)
+- 🔗 [Website](https://clementrieux.com)
 - 🔭 I’m currently working at [EDF](https://www.edf.fr/)
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: [clement.rieux@yahoo.com](mailto:clement.rieux@yahoo.com)
